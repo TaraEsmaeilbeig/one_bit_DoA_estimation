@@ -7,5 +7,10 @@ Through numerical experiments, we demonstrate the proposed LISTA-based algorithm
 
 ## Experimental result
 
+We used a uniform linear array with $d=\lambda/2$ spacing and $M=\{8,16\}$ antennas equipped with one-bit ADCs. In all of our experiments, the DoA interval is set to $\Delta \theta=1^{\circ}$, with $K=2$ and $K=3$ targets are assumed to be in random locations in the interval $[-60^{\circ},60^{\circ}]$. 
 
-[Fig10_DoA_estimation.eps-45302.pdf](https://github.com/TaraEsmaeilbeig/one_bit_DoA_estimation/files/15326172/Fig10_DoA_estimation.eps-45302.pdf)
+
+
+
+|![](![Screenshot 2024-05-15 134635](https://github.com/TaraEsmaeilbeig/one_bit_DoA_estimation/assets/154453606/65879b8c-b2c3-45af-9e95-e6a6e52d7fde))<br>text-1|![](![Screenshot 2024-05-15 134339](https://github.com/TaraEsmaeilbeig/one_bit_DoA_estimation/assets/154453606/82157b81-582c-42a5-ab27-c7d1b012798b))<br>text-2|
+|:-:|:-:|
