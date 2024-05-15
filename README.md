@@ -1,4 +1,4 @@
-# one_bit_DoA_estimation
+# One_bit DoA estimation
 
 
 [![Build Status](https://github.com/JuliaTeX/TikzPictures.jl/workflows/CI/badge.svg)](https://github.com/JuliaTeX/TikzPictures.jl/actions)
