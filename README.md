@@ -15,6 +15,7 @@ We used a uniform linear array with $d=\lambda/2$ spacing and $M=\{8,16\}$ anten
 |![Screenshot 2024-05-15 134635](https://github.com/TaraEsmaeilbeig/one_bit_DoA_estimation/assets/154453606/65879b8c-b2c3-45af-9e95-e6a6e52d7fde)<br>$K=3$|![Screenshot 2024-05-15 134339](https://github.com/TaraEsmaeilbeig/one_bit_DoA_estimation/assets/154453606/82157b81-582c-42a5-ab27-c7d1b012798b)<br>$K=2$|
 |:-:|:-:|
 
+
 If you find  our code useful, please cite our work: 
 
 @article{yeganegi2024deep,
