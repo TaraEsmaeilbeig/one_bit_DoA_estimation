@@ -20,6 +20,7 @@ We used a uniform linear array with $d=\lambda/2$ spacing and $M=\{8,16\}$ anten
 # Reference
 If you find  our code useful, please cite our work: 
 
+```bibtex
 @article{yeganegi2024deep,
   title={Deep Learning-Enabled One-Bit DoA Estimation},
   author={Yeganegi, Farhang and Eamaz, Arian and Esmaeilbeig, Tara and Soltanalian, Mojtaba},
@@ -27,3 +28,4 @@ If you find  our code useful, please cite our work:
   year={2024}
 }
 
+```
