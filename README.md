@@ -1,4 +1,4 @@
-# One-bit DoA estimation
+# One-bit DoA Estimation
 This is the implementation for the paper [Deep Learning-Enabled One-Bit DoA Estimation](https://ieeexplore.ieee.org/document/10636650) and can be used to estimate DoA from one-bit  measurements.
 
 
